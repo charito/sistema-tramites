@@ -8,3 +8,8 @@ h1{
 	font-size: 15px; /* font-size 140px; by default */
 	width: 10%;
 }
+
+
+.main-header {
+  max-height: 100%;
+}
